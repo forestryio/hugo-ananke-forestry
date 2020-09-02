@@ -4,7 +4,7 @@ title: "Hugo Ananke Forestry Starter"
 
 module:
   imports:
-    - path: github.com/DirtyF/gohugo-theme-ananke
+    - path: github.com/theNewDynamic/gohugo-theme-ananke
 
 DefaultContentLanguage: en
 SectionPagesMenu: main
