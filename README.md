@@ -1,4 +1,4 @@
-hugo-ananke-forestry# Hugo Ananke Forestry Starter
+# Hugo Ananke Forestry Starter
 
 Ready-to-use Forestry starter with Hugo Ananke Theme.
 
