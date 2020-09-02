@@ -5,15 +5,18 @@ fields:
 - type: text
   name: title
   label: title
+- type: text
+  name: description
+  label: description
 - type: file
   name: featured_image
   label: featured_image
 - type: boolean
   name: omit_header_text
   label: omit_header_text
-- type: text
-  name: description
-  label: description
+  default: true
 - type: text
   name: type
   label: type
+  default: page
+  hidden: true
