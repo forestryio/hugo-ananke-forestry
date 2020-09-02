@@ -23,3 +23,5 @@ fields:
 - type: boolean
   name: disable_share
   label: disable_share
+pages:
+- content/post/chapter-6.md
