@@ -17,7 +17,7 @@ Ready-to-use Forestry starter with Hugo Ananke Theme.
 
 [![import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=forestryio/hugo-ananke-forestry&engine=hugo&version=0.74.3)
 
-This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import this starter in Forestry](https://app.forestry.io/quick-start?repo=forestryio/hugo-ananke-forestry&engine=hugo&version=0.74.3) to be able to edit and preview your site ✨. \
+This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import this starter in Forestry](https://app.forestry.io/quick-start?repo=forestryio/hugo-ananke-forestry&engine=hugo&version=0.74.3) to be able to edit and preview your site ✨.
 
 Any changes you make in Forestry will be commited back to the Git repository. Deploy your site on [Vercel](#vercel) or [Netlify](#netlify) within minutes.
 
