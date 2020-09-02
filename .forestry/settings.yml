@@ -12,8 +12,11 @@ sections:
 - type: directory
   path: content/post
   label: Post
-  create: all
-  match: "**/*"
+  create: documents
+  match: "*.md"
+  exclude: _index.md
+  templates:
+  - post
 - type: directory
   path: content/about
   label: About
