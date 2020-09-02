@@ -2,21 +2,24 @@
 label: Post
 hide_body: false
 fields:
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: description
-  label: description
-- type: file
-  name: featured_image
-  label: featured_image
-- type: list
-  name: tags
-  label: tags
 - type: text
   name: title
   label: title
+- type: text
+  name: description
+  label: description
+- type: datetime
+  name: date
+  label: date
+  default: now
+- type: file
+  name: featured_image
+  label: featured_image
+- name: tags
+  type: tag_list
+  default:
+  - scene
+  label: tags
 - type: boolean
   name: disable_share
   label: disable_share
