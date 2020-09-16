@@ -34,9 +34,8 @@ Follow the steps.
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forestryio/hugo-ananke-forestry)
 
 1. Set the build command to: `hugo --gc --minify`
-2. Set the publish directory to: `public`
-3. Make sure to set `HUGO_VERSION` to 0.58.0 or above (tested with 0.74.3)
-3. Set the publish directory to: `public`
+1. Make sure to set `HUGO_VERSION` to 0.58.0 or above (tested with 0.74.3)
+1. Set the publish directory to: `public`
 
 That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
 
