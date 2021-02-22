@@ -9,15 +9,15 @@ Ready-to-use Forestry starter with Hugo Ananke Theme.
 ## Requirements
 
 - GitHub, GitLab or BitBucket account
-- Hugo > 0.56.0 (tested with latest Hugo)
+- Hugo > 0.65.0 (tested with latest Hugo)
 
 ## Content Management
 
 ![](static/images/ananke-forestry.jpg)
 
-[![import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=forestryio/hugo-ananke-forestry&engine=hugo&version=0.75.1)
+[![import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=forestryio/hugo-ananke-forestry&engine=hugo&version=0.81.0)
 
-This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import this starter in Forestry](https://app.forestry.io/quick-start?repo=forestryio/hugo-ananke-forestry&engine=hugo&version=0.75.1) to be able to edit and preview your site ✨.
+This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import this starter in Forestry](https://app.forestry.io/quick-start?repo=forestryio/hugo-ananke-forestry&engine=hugo&version=0.81.0) to be able to edit and preview your site ✨.
 
 Any changes you make in Forestry will be commited back to the Git repository. Deploy your site on [Vercel](#vercel) or [Netlify](#netlify) within minutes.
 
@@ -28,7 +28,7 @@ Any changes you make in Forestry will be commited back to the Git repository. De
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forestryio/hugo-ananke-forestry)
 
 1. Set the build command to: `hugo --gc --minify`
-1. Make sure to set `HUGO_VERSION` to 0.58.0 or above (tested with 0.75.1)
+1. Make sure to set `HUGO_VERSION` to 0.65.0 or above (tested with latest version)
 1. Set the publish directory to: `public`
 
 That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
